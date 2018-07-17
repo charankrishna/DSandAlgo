@@ -7,4 +7,4 @@ function palindrome(str){
         console.log(str+" Not palindrom")
     }}
 
-palindrome("krupa")
+palindrome("madam")
